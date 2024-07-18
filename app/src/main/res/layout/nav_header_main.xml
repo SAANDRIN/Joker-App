@@ -10,7 +10,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:gravity="bottom"
     android:theme="@style/ThemeOverlay.AppCompat.Dark"
-    android:layout_height="100dp">
+    android:layout_height="176dp">
 
     <ImageView
         android:src="@mipmap/ic_launcher_round"
